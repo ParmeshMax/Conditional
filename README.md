@@ -1,2 +1,13 @@
-# Conditional
-Conditional statements in Python control program flow by executing code only when conditions are met. Using if, elif, and else, developers can handle multiple scenarios, make decisions, and improve logic clarity. They are essential for dynamic, readable, and efficient code.
+# Python Conditional Statements
+
+Conditional statements in Python control the flow of execution by running code only when specific conditions are met. They are essential for decision-making and dynamic logic in programs.
+
+---
+
+## 🔑 Types of Conditionals
+
+### 1. If Statement
+### 2. IF-Else Statement
+### 3. elif Statement
+### 4. Nested Conditionals
+### 5. Short-Hand If
